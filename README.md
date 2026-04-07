@@ -39,7 +39,7 @@ Navigating the [Apple Activation Lock support request](https://al-support.apple.
 | *Clean and modular control panel* | *Real-time document generation* |
 
 ### 🎨 Advanced Settings (Dark Mode & Printer Setup)
-![Dark Theme and Printer Setup](./screenshots/features_combined.png)
+![Dark Theme and Printer Setup](./screenshots/features_combined.gif)
 *Optimized for focus with granular hardware control.*
 
 ---
