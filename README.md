@@ -75,11 +75,11 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 </div>
 
 > [!CAUTION]
-> **Branded Paper Warning:** Printed formats will not be 100% faithful if the specific carrier or store uses **branded thermal paper**. These are rolls where logos or policy text are pre-printed on the back of the paper. Our software handles the digital generation, but users are responsible for sourcing official rolls through authorized distributors, eBay, or internal contacts if a perfect physical match is required.
+> **Branded Paper Warning:** Printed formats will not be 100% faithful if the specific carrier or store uses **branded branded papers**. These are thermal rolls where logos and policy text are pre-printed on the back of the paper. Since the printer does not write on the back, users must understand that these specific papers must be sourced through authorized distributors, eBay, or internal contacts.
 
 <div align="center">
   <h3>🤝 Business Opportunity: Thermal Paper Suppliers</h3>
-  <p>If you are a supplier or have access to branded thermal rolls for resale, we welcome you to join our network.</p>
+  <p>If you have access to branded thermal rolls for resale or wish to start a partnership, contact us below:</p>
   <a href="https://magicstore.qzz.io/">
     <img src="https://img.shields.io/badge/Contact-Suppliers%20%26%20Partners-blueviolet?style=for-the-badge&logo=appveyor" alt="Contact">
   </a>
@@ -95,13 +95,13 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 > **Dynamic Updates via Definitions:** Our software uses a **Definitions-based architecture**. This means you don't need to wait for a full software update to access new invoice templates. New formats are added as modular files that the app loads instantly.
 
 ### 📤 Provide Support File
-If you have purchased devices from a specific carrier or store and have a personal file you wish to port, you can use our **"Provide Support File"** button. 
+If you have purchased devices from a specific carrier or store and have a personal file you wish to port, you can use our **"Provide Support File"** button.
 
 * **How it works:** Simply send us a photo, PDF, or email receipt of the format you need.
 * **Porting Process:** Our team will work on integrating the format into the app within **24 to 72 hours**.
 
 > [!WARNING]
-> **Code of Conduct:** Patience and respect are the keys to successful support. Our team is dedicated to helping you, but we have a zero-tolerance policy for abuse. Users who behave poorly or attempt to abuse the staff will be referred to our strictest administrators—expect a firm response if you fail to maintain a respectful attitude. Treat the team with kindness, and we will move mountains for you.
+> **Code of Conduct:** Patience and respect are the keys to successful support. Our team is dedicated to helping you, but we have a zero-tolerance policy for abuse. Users who behave poorly or attempt to abuse the staff will be referred to our strictest administrators—expect a firm response if you fail to maintain a respectful attitude.
 
 ---
 
@@ -110,11 +110,11 @@ If you have purchased devices from a specific carrier or store and have a person
 </div>
 
 > [!IMPORTANT]
-> **Strict No-Refund Policy:** Once the service has been rendered (which includes the registration of a Serial Number (SN) and the generation of a document), **no refunds will be issued**. 
+> **Strict No-Refund Policy:** Once the service has been rendered—which is defined as the **registration of a Serial Number (SN)** and the successful **generation/printing of a document**—absolutely **no refunds will be issued**. 
 >
-> **Usage Scope:** The software is strictly for using the pre-recorded templates provided within the app. Any external outcome—such as receiving a negative response from Apple Support or any other entity—is the sole responsibility of the user. Rejections from support requests are not grounds for refunds or claims.
+> **User Responsibility:** The service is strictly for accessing and using the software's pre-recorded templates. Any external outcome, such as receiving a **negative response or rejection from Apple Support** or any third party, is the sole responsibility of the user. Rejections are NOT valid grounds for refunds or claims.
 >
-> **Data Handling:** By using this app, you acknowledge that device identifiers (SN) and the generated document logs are registered as part of the service delivery process.
+> **Data Integrity Disclaimer:** We do not offer, provide, or sell any real personal or corporate information. Magic Invoice App is solely a software tool that automates the input of **user-provided information** into exact templates. The use of the software for any purpose beyond its design is the user's liability.
 
 ---
 
@@ -123,10 +123,10 @@ If you have purchased devices from a specific carrier or store and have a person
 </div>
 
 > [!NOTE]
-> **Initial Compilation Phase:** As this is an early stable build, errors may occur. To help us improve and provide a fix as quickly as possible, please ensure you provide:
-> 1. **Detailed Logs** (if available).
-> 2. **Screenshots** of the error.
-> 3. **Context** of what you were doing when the issue occurred.
+> **Initial Compilation Phase:** As this is an early build, technical errors may occur. To ensure a quick fix, it is critical that you provide:
+> 1. **Detailed Logs** from the application.
+> 2. **Screenshots** of the error or visual glitch.
+> 3. **Exact Details** of the problem to help our team reproduce and solve it immediately.
 
 ---
 
