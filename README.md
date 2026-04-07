@@ -4,24 +4,22 @@
   <p><b>Professional Proof of Purchase (PoP) Recovery Solution for iOS Devices.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.4.0-blue.svg" alt="Version">
-    <img src="https://img.shields.io/badge/Language-English%20%7C%20Spanish-brightgreen.svg" alt="Language">
-    <img src="https://img.shields.io/badge/Platform-iOS-lightgrey.svg" alt="Platform">
-    <img src="https://img.shields.io/badge/UI-Modular%20Refactor-orange.svg" alt="UI">
+    <img src="https://img.shields.io/badge/Version-1.4.0-blue.svg?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Platform-iOS-lightgrey.svg?style=for-the-badge" alt="Platform">
+    <img src="https://img.shields.io/badge/Language-English-green.svg?style=for-the-badge" alt="Language">
   </p>
 </div>
 
 ---
 
-### 📖 Description
-Formerly known as **Magic Invoice Pack**, this project is a specialized suite for **Proof of Purchase (PoP) recovery**. 
+> [!NOTE]
+> **Evolution of the Project:** Formerly known as **Magic Invoice Pack**, this project has been fully refactored into the **Magic Invoice App** suite, focusing exclusively on high-fidelity **Proof of Purchase (PoP) recovery**.
 
+### 📖 Description
 Magic Invoice App provides users with the ability to generate legitimate documentation for Apple devices based on real invoice formats. Whether you are managing warranty claims, processing returns, or requiring official documentation for iCloud unlock and "Find My" deactivation, our software generates high-quality **MagicFiles** using industry-standard templates.
 
-### 🛡️ Activation Lock Support Request
-Navigating the [Apple Activation Lock support request](https://al-support.apple.com/#/) process is an official legal measure provided by Apple. A successful request requires precise and valid documentation. 
-
-**Magic Invoice App** acts as a critical bridge in this process, helping you organize and generate the exact information Apple requires to verify device ownership and proceed with activation lock removals legally and effectively.
+> [!IMPORTANT]
+> **A Critical Step for Apple Support:** Navigating the [Apple Activation Lock support request](https://al-support.apple.com/#/) process is an official legal measure. Our software acts as a critical bridge, helping you organize the exact information required by Apple to verify device ownership and proceed with activation lock removals.
 
 ---
 
@@ -29,10 +27,10 @@ Navigating the [Apple Activation Lock support request](https://al-support.apple.
   <h2>🚀 Key Features</h2>
 </div>
 
-* **⚡ Automatic iOS Detection:** Powered by native logic to instantly retrieve Serial Numbers, IMEI, UDID, and Model info via USB connection.
-* **📑 Professional Templates:** Currently supports high-fidelity **POS (Point of Sale)** receipt formats.
-* **🎨 Modern UI/UX:** A fully modular interface featuring a sleek design and intuitive navigation.
-* **🖨️ Advanced Hardware Control:** Integrated printer setup to manage thermal and system printers for physical document output.
+* **⚡ Automatic iOS Detection:** Native logic to instantly retrieve Serial Numbers, IMEI, UDID, and Model info via USB connection.
+* **📑 Professional Templates:** High-fidelity **POS (Point of Sale)** receipt formats currently supported.
+* **🎨 Modern UI/UX:** Fully modular interface featuring a sleek design and intuitive navigation.
+* **🖨️ Advanced Hardware Control:** Integrated printer setup to manage thermal and system printers for physical output.
 * **💎 Data Integrity:** Automated data population into exact templates to fulfill all support expectations.
 
 ---
@@ -50,29 +48,14 @@ Navigating the [Apple Activation Lock support request](https://al-support.apple.
       <td><img src="./screenshots/user_interface.gif" width="400"></td>
       <td><img src="./screenshots/invoice_generator.gif" width="400"></td>
     </tr>
-    <tr>
-      <td align="center"><i>Clean and modular control panel</i></td>
-      <td align="center"><i>Real-time document generation</i></td>
-    </tr>
   </table>
+
+  <br>
 
   <h3>🎨 Advanced Settings</h3>
   <img src="./screenshots/features_combined.gif" width="820">
   <p><i>Optimized for focus with granular hardware control.</i></p>
 </div>
-
----
-
-<div align="center">
-  <h2>🎨 Visual Identity & UI Palette</h2>
-</div>
-
-To maintain the essence of the **Magic Series**, the interface follows a strict professional color scheme:
-
-- 🌑 **Deep Background:** `#121212` - Used for main containers and dark mode stability.
-- 🔵 **Accent Blue:** `#007AFF` - Primary action buttons and device detection status.
-- 🟢 **Success Mint:** `#28CD41` - Used for successful MagicFile generation.
-- ⚪ **Text Primary:** `#FFFFFF` - High contrast for readability in POS templates.
 
 ---
 
@@ -87,12 +70,8 @@ To maintain the essence of the **Magic Series**, the interface follows a strict 
 
 ---
 
-<div align="center">
-  <h2>📢 Important Disclaimer</h2>
-</div>
-
-> [!IMPORTANT]
-> **We do not offer or sell any real personal or corporate information.** Magic Invoice App is a software tool designed to automate the process of inputting **user-provided information** into exact, high-quality templates. The legality of the generated documents depends on the truthfulness of the data provided by the user and its application in legal procedures.
+> [!WARNING]
+> **Legal Disclaimer:** We do not offer or sell any real personal or corporate information. Magic Invoice App is a software tool designed to automate the process of inputting **user-provided information** into exact templates. The legality of the generated documents depends on the truthfulness of the data provided by the user.
 
 ---
 
