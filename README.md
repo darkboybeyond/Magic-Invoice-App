@@ -39,8 +39,8 @@ Navigating the [Apple Activation Lock support request](https://al-support.apple.
 
 | Dark Theme | Printer Setup |
 | :---: | :---: |
-| ![Dark Theme](./screenshots/dark_theme.png) | ![Printer Setup](./screenshots/printer_setup.png) |
-| *Optimized for focus* | *Granular hardware control* |
+| ![Dark Theme](./screenshots/dark_theme.gif) | 
+| *Optimized for focus, Granular hardware control* |
 
 ---
 
