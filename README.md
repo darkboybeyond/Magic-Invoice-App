@@ -37,8 +37,8 @@ Navigating the [Apple Activation Lock support request](https://al-support.apple.
 | ![User Interface](./screenshots/user_interface.gif) | ![Invoice Generator](./screenshots/invoice_generator.gif) |
 | *Intuitive control panel* | *Real-time document generation* |
 
-| Dark Theme | Printer Setup |
-| :---: | :---: |
+| Dark Theme, Printer Setup |
+| :---: :---: |
 | ![Dark Theme](./screenshots/dark_theme.gif) | 
 | *Optimized for focus, Granular hardware control* |
 
