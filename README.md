@@ -60,18 +60,44 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 ---
 
 <div align="center">
-  <h2>🛠️ How it Works</h2>
-</div>
+  <h2>📄 Physical Output & Printed Results</h2>
+  <p>The software is optimized for 1:1 physical reproduction using thermal and laser printers.</p>
 
-1.  **Connect:** Plug in your iOS device via USB. The app automatically fetches the hardware identifiers.
-2.  **Select:** Choose the appropriate invoice template for your specific case.
-3.  **Input:** Fill in the necessary purchase details into our automated fields.
-4.  **Generate:** Produce a professional MagicFile ready for official support submissions.
+  <table align="center">
+    <tr>
+      <td align="center"><b>Thermal POS Print</b></td>
+      <td align="center"><b>Official Format Comparison</b></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/printed_result_1.png" width="400"></td>
+      <td><img src="./screenshots/printed_result_2.png" width="400"></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="./screenshots/printed_result_3.png" width="820"></td>
+    </tr>
+  </table>
+  <p><i>Real examples of documents generated and printed by Magic Invoice App.</i></p>
+</div>
 
 ---
 
+<div align="center">
+  <h2>🛠️ Custom Invoice Porting & Support</h2>
+</div>
+
+> [!TIP]
+> **Dynamic Updates via Definitions:** Our software uses a **Definitions-based system**. This means you don't need to wait for a full software update to get new invoice templates. New formats are added as modular files that the app loads instantly.
+
+### 📤 Provide Support File
+If you have a specific store or carrier format (from a bulk purchase or a unique provider) that is not yet in the app, you can help us grow the project:
+
+1.  **Use the Button:** Click on **"Provide Support File"** inside the app.
+2.  **Submit your format:** Send us a photo, a PDF, or an email receipt of the format you wish to port.
+3.  **Turnaround:** Our team will work on porting the template within **24 to 72 hours**.
+4.  **Porting Service:** We are committed to our users; if you provide the source file, we will gladly integrate it into the software for everyone.
+
 > [!WARNING]
-> **Legal Disclaimer:** We do not offer or sell any real personal or corporate information. Magic Invoice App is a software tool designed to automate the process of inputting **user-provided information** into exact templates. The legality of the generated documents depends on the truthfulness of the data provided by the user.
+> **Support Etiquette:** Patience and respect are the keys to a great experience. Our support team is here to help, but we have a **zero-tolerance policy** for abuse. Users who are disrespectful or attempt to abuse the staff will deal with our most senior (and stern) administrators. Treat the team with kindness, and we will move mountains for you.
 
 ---
 
