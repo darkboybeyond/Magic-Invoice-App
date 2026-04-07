@@ -36,6 +36,30 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 ---
 
 <div align="center">
+  <h2>📸 Visual Overview</h2>
+
+  <h3>🖥️ Core Functionality</h3>
+  <table>
+    <tr>
+      <td align="center"><b>User Interface</b></td>
+      <td align="center"><b>Invoice Generator</b></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/user_interface.gif" width="400"></td>
+      <td><img src="./screenshots/invoice_generator.gif" width="400"></td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>🎨 Add Support</h3>
+  <img src="./screenshots/features_combined.gif" width="820">
+  <p><i>Adding support using Photos, Emails or PDF</i></p>
+</div>
+
+---
+
+<div align="center">
   <h2>📄 Physical Output Showcase</h2>
   <p>The software is optimized for 1:1 physical reproduction using thermal and laser printers.</p>
 
@@ -47,22 +71,17 @@ Magic Invoice App provides users with the ability to generate legitimate documen
       <td><img src="./screenshots/printed_result_3.png" width="400"></td>
     </tr>
   </table>
-
-  > [!CAUTION]
-  > **Branded Paper Warning:** Physical results will not be 100% identical if the original carrier or store uses **Branded Thermal Paper** (paper with pre-printed logos/policies on the back). Users must source these specific papers via authorized distributors or third-party sellers (eBay, etc.) to achieve total fidelity.
+  <p><i>Showcase of high-fidelity MagicFiles generated and printed by the app.</i></p>
 </div>
 
----
+> [!CAUTION]
+> **Branded Paper Warning:** Printed formats will not be 100% faithful if the specific carrier or store uses **branded thermal paper**. These are rolls where logos or policy text are pre-printed on the back of the paper. Our software handles the digital generation, but users are responsible for sourcing official rolls through authorized distributors, eBay, or internal contacts if a perfect physical match is required.
 
 <div align="center">
-  <h2>💼 Business & Supply</h2>
-</div>
-
-Are you a supplier of branded thermal paper? Or do you wish to start a business reselling specific carrier papers? We welcome all collaborators and providers to join our ecosystem.
-
-<div align="center">
+  <h3>🤝 Business Opportunity: Thermal Paper Suppliers</h3>
+  <p>If you are a supplier or have access to branded thermal rolls for resale, we welcome you to join our network.</p>
   <a href="https://magicstore.qzz.io/">
-    <img src="https://img.shields.io/badge/Contact_Sales-Magic_Store-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Magic Store">
+    <img src="https://img.shields.io/badge/Contact-Suppliers%20%26%20Partners-blueviolet?style=for-the-badge&logo=appveyor" alt="Contact">
   </a>
 </div>
 
@@ -73,28 +92,58 @@ Are you a supplier of branded thermal paper? Or do you wish to start a business 
 </div>
 
 > [!TIP]
-> **Dynamic Updates via Definitions:** Our software uses a **Definitions-based architecture**. This means you don't need to wait for a full software update to access new invoice templates.
+> **Dynamic Updates via Definitions:** Our software uses a **Definitions-based architecture**. This means you don't need to wait for a full software update to access new invoice templates. New formats are added as modular files that the app loads instantly.
 
 ### 📤 Provide Support File
-If you have purchased devices from a specific carrier and have a personal file you wish to port:
+If you have purchased devices from a specific carrier or store and have a personal file you wish to port, you can use our **"Provide Support File"** button. 
+
 * **How it works:** Simply send us a photo, PDF, or email receipt of the format you need.
-* **Porting Process:** Our team will integrate the format into the app within **24 to 72 hours**.
+* **Porting Process:** Our team will work on integrating the format into the app within **24 to 72 hours**.
 
 > [!WARNING]
-> **Initial Compilation & Bugs:** As this is an early release, errors may occur. It is crucial to provide **logs and screenshots** when reporting an issue so we can fix it immediately.
-> 
-> **Code of Conduct:** Patience is key. We have a zero-tolerance policy for abuse. Rude behavior toward staff will result in a transfer to our senior administrators—treat the team with kindness, and we will move mountains for you.
+> **Code of Conduct:** Patience and respect are the keys to successful support. Our team is dedicated to helping you, but we have a zero-tolerance policy for abuse. Users who behave poorly or attempt to abuse the staff will be referred to our strictest administrators—expect a firm response if you fail to maintain a respectful attitude. Treat the team with kindness, and we will move mountains for you.
+
+---
+
+<div align="center">
+  <h2>⚖️ Privacy & Terms of Use</h2>
+</div>
+
+> [!IMPORTANT]
+> **Strict No-Refund Policy:** Once the service has been rendered (which includes the registration of a Serial Number (SN) and the generation of a document), **no refunds will be issued**. 
+>
+> **Usage Scope:** The software is strictly for using the pre-recorded templates provided within the app. Any external outcome—such as receiving a negative response from Apple Support or any other entity—is the sole responsibility of the user. Rejections from support requests are not grounds for refunds or claims.
+>
+> **Data Handling:** By using this app, you acknowledge that device identifiers (SN) and the generated document logs are registered as part of the service delivery process.
+
+---
+
+<div align="center">
+  <h2>🐛 Bug Reporting & Stability</h2>
+</div>
+
+> [!NOTE]
+> **Initial Compilation Phase:** As this is an early stable build, errors may occur. To help us improve and provide a fix as quickly as possible, please ensure you provide:
+> 1. **Detailed Logs** (if available).
+> 2. **Screenshots** of the error.
+> 3. **Context** of what you were doing when the issue occurred.
+
+---
+
+<div align="center">
+  <h2>🛣️ Project Roadmap</h2>
+</div>
+
+- [x] **POS Support:** Full automation for thermal receipt formats.
+- [ ] **A4 Documents:** Support for standard office invoice formats (Coming Soon).
+- [ ] **Email Receipts:** Digital proof of purchase templates (Coming Soon).
 
 ---
 
 <div align="center">
   <h2>💬 Support</h2>
   <p><b>We speak Spanish!</b> (<i>Hablamos español</i>).</p>
-  <p>
-    <a href="https://magicstore.qzz.io/">
-      <img src="https://img.shields.io/badge/Support-Contact_Us-brightgreen?style=for-the-badge" alt="Support">
-    </a>
-  </p>
+  <p>If you have any questions regarding the software or the documentation process, feel free to reach out in English or Spanish.</p>
   <br>
   <p><i>Developed for the iOS Community.</i></p>
 </div>
