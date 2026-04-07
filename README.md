@@ -4,8 +4,8 @@
   <p><b>Professional Proof of Purchase (PoP) Recovery Solution for iOS Devices.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.4.0-blue.svg?style=for-the-badge" alt="Version">
-    <img src="https://img.shields.io/badge/Platform-iOS-lightgrey.svg?style=for-the-badge" alt="Platform">
+    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Language-English-green.svg?style=for-the-badge" alt="Language">
   </p>
 </div>
@@ -52,9 +52,9 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 
   <br>
 
-  <h3>🎨 Advanced Settings</h3>
+  <h3>🎨 Add Support</h3>
   <img src="./screenshots/features_combined.gif" width="820">
-  <p><i>Optimized for focus with granular hardware control.</i></p>
+  <p><i>Adding support using Photos, Emails or PDF</i></p>
 </div>
 
 ---
