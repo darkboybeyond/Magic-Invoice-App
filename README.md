@@ -60,23 +60,18 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 ---
 
 <div align="center">
-  <h2>📄 Physical Output & Printed Results</h2>
+  <h2>📄 Physical Output Showcase</h2>
   <p>The software is optimized for 1:1 physical reproduction using thermal and laser printers.</p>
 
+  <img src="./screenshots/printed_result_1.png" width="820">
+  <br>
   <table align="center">
     <tr>
-      <td align="center"><b>Thermal POS Print</b></td>
-      <td align="center"><b>Official Format Comparison</b></td>
-    </tr>
-    <tr>
-      <td><img src="./screenshots/printed_result_1.png" width="400"></td>
       <td><img src="./screenshots/printed_result_2.png" width="400"></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center"><img src="./screenshots/printed_result_3.png" width="820"></td>
+      <td><img src="./screenshots/printed_result_3.png" width="400"></td>
     </tr>
   </table>
-  <p><i>Real examples of documents generated and printed by Magic Invoice App.</i></p>
+  <p><i>Showcase of high-fidelity MagicFiles generated and printed by the app.</i></p>
 </div>
 
 ---
@@ -86,18 +81,17 @@ Magic Invoice App provides users with the ability to generate legitimate documen
 </div>
 
 > [!TIP]
-> **Dynamic Updates via Definitions:** Our software uses a **Definitions-based system**. This means you don't need to wait for a full software update to get new invoice templates. New formats are added as modular files that the app loads instantly.
+> **Dynamic Updates via Definitions:** Our software uses a **Definitions-based architecture**. This means you don't need to wait for a full software update to access new invoice templates. New formats are added as modular files that the app loads instantly.
 
 ### 📤 Provide Support File
-If you have a specific store or carrier format (from a bulk purchase or a unique provider) that is not yet in the app, you can help us grow the project:
+If you have purchased devices from a specific carrier or store and have a personal file you wish to port, you can use our **"Provide Support File"** button. This is ideal for users with multiple devices from a specific provider.
 
-1.  **Use the Button:** Click on **"Provide Support File"** inside the app.
-2.  **Submit your format:** Send us a photo, a PDF, or an email receipt of the format you wish to port.
-3.  **Turnaround:** Our team will work on porting the template within **24 to 72 hours**.
-4.  **Porting Service:** We are committed to our users; if you provide the source file, we will gladly integrate it into the software for everyone.
+* **How it works:** Simply send us a photo, PDF, or email receipt of the format you need.
+* **Porting Process:** Our team will work on integrating the format into the app within **24 to 72 hours**.
+* **Community Driven:** We are committed to expanding the app; if you provide the format, we will gladly work to add it for you and the community.
 
 > [!WARNING]
-> **Support Etiquette:** Patience and respect are the keys to a great experience. Our support team is here to help, but we have a **zero-tolerance policy** for abuse. Users who are disrespectful or attempt to abuse the staff will deal with our most senior (and stern) administrators. Treat the team with kindness, and we will move mountains for you.
+> **Code of Conduct:** Patience and respect are the keys to successful support. Our team is dedicated to helping you, but we have a zero-tolerance policy for abuse. Users who behave poorly or attempt to abuse the staff will be referred to our strictest administrators—expect a firm response if you fail to maintain a respectful attitude. Treat the team with kindness, and we will move mountains for you.
 
 ---
 
