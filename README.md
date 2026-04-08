@@ -63,12 +63,12 @@ Magic Invoice App provides users with the ability to generate legitimate documen
   <h2>📄 Physical Output Showcase</h2>
   <p>The software is optimized for 1:1 physical reproduction using thermal and laser printers.</p>
 
-  <img src="./screenshots/printed_result_1.png" width="820">
+  <img src="./screenshots/printed_result_1.jpeg" width="820">
   <br>
   <table align="center">
     <tr>
-      <td><img src="./screenshots/printed_result_2.png" width="400"></td>
-      <td><img src="./screenshots/printed_result_3.png" width="400"></td>
+      <td><img src="./screenshots/printed_result_2.jpeg" width="400"></td>
+      <td><img src="./screenshots/printed_result_3.jpeg" width="400"></td>
     </tr>
   </table>
   <p><i>Showcase of high-fidelity MagicFiles generated and printed by the app.</i></p>
