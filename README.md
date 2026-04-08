@@ -45,15 +45,15 @@ Magic Invoice App provides users with the ability to generate legitimate documen
       <td align="center"><b>Invoice Generator</b></td>
     </tr>
     <tr>
-      <td><img src="./screenshots/user_interface.gif" width="400"></td>
-      <td><img src="./screenshots/invoice_generator.gif" width="400"></td>
+      <td><img src="./screenshots/user_interface.gif" width="300"></td>
+      <td><img src="./screenshots/invoice_generator.gif" width="300"></td>
     </tr>
   </table>
 
   <br>
 
   <h3>🎨 Add Support</h3>
-  <img src="./screenshots/features_combined.gif" width="820">
+  <img src="./screenshots/features_combined.gif" width="600">
   <p><i>Adding support using Photos, Emails or PDF</i></p>
 </div>
 
@@ -63,19 +63,19 @@ Magic Invoice App provides users with the ability to generate legitimate documen
   <h2>📄 Physical Output Showcase</h2>
   <p>The software is optimized for 1:1 physical reproduction using thermal and laser printers.</p>
 
-  <img src="./screenshots/printed_result_1.jpeg" width="820">
-  <br>
+  <img src="./screenshots/printed_result_1.jpeg" width="600">
+  <br><br>
   <table align="center">
     <tr>
-      <td><img src="./screenshots/printed_result_2.jpeg" width="400"></td>
-      <td><img src="./screenshots/printed_result_3.jpeg" width="400"></td>
+      <td><img src="./screenshots/printed_result_2.jpeg" width="300"></td>
+      <td><img src="./screenshots/printed_result_3.jpeg" width="300"></td>
     </tr>
   </table>
   <p><i>Showcase of high-fidelity MagicFiles generated and printed by the app.</i></p>
 </div>
 
 > [!CAUTION]
-> **Branded Paper Warning:** Printed formats will not be 100% faithful if the specific carrier or store uses **branded branded papers**. These are thermal rolls where logos and policy text are pre-printed on the back of the paper. Since the printer does not write on the back, users must understand that these specific papers must be sourced through authorized distributors, eBay, or internal contacts.
+> **Branded Paper Warning:** Printed formats will not be 100% faithful if the specific carrier or store uses **branded thermal papers**. These are thermal rolls where logos and policy text are pre-printed on the back of the paper. Since the printer does not write on the back, users must understand that these specific papers must be sourced through authorized distributors, eBay, or internal contacts.
 
 <div align="center">
   <h3>🤝 Business Opportunity: Thermal Paper Suppliers</h3>
