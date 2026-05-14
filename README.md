@@ -4,7 +4,7 @@
   <p><b>Professional Proof of Purchase (PoP) Recovery Solution for iOS Devices.</b></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Version-1.1.0-blue.svg?style=for-the-badge" alt="Version">
+    <img src="https://img.shields.io/badge/Version-1.1.1-blue.svg?style=for-the-badge" alt="Version">
     <img src="https://img.shields.io/badge/Platform-Windows-lightgrey.svg?style=for-the-badge" alt="Platform">
     <img src="https://img.shields.io/badge/Language-English-green.svg?style=for-the-badge" alt="Language">
   </p>
